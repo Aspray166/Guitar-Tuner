@@ -62,20 +62,20 @@ An audio detection/tuner system based on STM32F7
 | **手动** | 任意选择琴弦，即使完全松弦也能逐步调至标准 |
 | **异常提示** | 多次调整仍未达标时串口输出警告信息 |
 
-> ![自动模式结果](img.Auto.png)  
-> ![手动模式结果](img.Manual.png)  
-> ![异常提示](img.Abnormal.png)
+> ![自动模式结果](img/Auto.png)  
+> ![手动模式结果](img/Manual.png)  
+> ![异常提示](img/Abnormal.png)
 
 ---
 
 ## 流程图
 **主程序**
-> ![](img.Main.png)
+> ![](img/Main.png)
 
 **定时器中断**
-> ![](img.Time.png)
+> ![](img/Time.png)
 
 **DMA中断**
-> ![](img.DMA.png)
+> ![](img/DMA.png)
 
 ---
