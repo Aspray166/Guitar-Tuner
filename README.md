@@ -62,20 +62,33 @@ An audio detection/tuner system based on STM32F7
 | **手动** | 任意选择琴弦，即使完全松弦也能逐步调至标准 |
 | **异常提示** | 多次调整仍未达标时串口输出警告信息 |
 
-> ![自动模式结果](img/Auto.png)  
-> ![手动模式结果](img/Manual.png)  
-> ![异常提示](img/Abnormal.png)
+**自动模式结果**
+<p align="">
+  <img src="https://github.com/Aspray166/Guitar-Tuner/blob/main/img/Auto.png" width="600"/>
+</p>
+
+**手动模式结果**
+<p align="">
+  <img src="https://github.com/Aspray166/Guitar-Tuner/blob/main/img/Manual.png" width="600"/>
+</p>
+
+**异常提示**
+<p align="">
+  <img src="https://github.com/Aspray166/Guitar-Tuner/blob/main/img/Abnormal.png" width="600"/>
+</p>
+
 
 ---
 
 ## 流程图
 **主程序**
-> ![](img/Main.png)
+<p align="center"><img src="https://github.com/Aspray166/Guitar-Tuner/blob/main/img/Main.png" alt="" width="200"/></p>
 
 **定时器中断**
-> ![](img/Time.png)
+<p align="center"><img src="https://github.com/Aspray166/Guitar-Tuner/blob/main/img/Time.png" alt="" width="200"/></p>
 
 **DMA中断**
-> ![](img/DMA.png)
+<p align="center"><img src="https://github.com/Aspray166/Guitar-Tuner/blob/main/img/DMA.png" alt="" width="800"/></p>
 
 ---
+
