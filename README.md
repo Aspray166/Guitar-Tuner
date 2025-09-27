@@ -64,7 +64,7 @@ An audio detection/tuner system based on STM32F7
 
 > ![自动模式结果](Auto.png)  
 > ![手动模式结果](Manual.png)  
-> ![异常提示](abnormal.png)
+> ![异常提示](Abnormal.png)
 
 ---
 
