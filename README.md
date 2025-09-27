@@ -4,7 +4,7 @@ An audio detection/tuner system based on STM32F7
 # 基于 STM32F767 的智能吉他调音器
 
 > 天津大学电气自动化与信息工程学院  
-> 课程设计 · 2022 年 5 月
+> 课程设计 · 2022 年 5 月 by LJC & GTS
 
 ---
 
